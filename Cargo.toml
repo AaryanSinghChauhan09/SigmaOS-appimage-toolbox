@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_appimage_toolbox"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_appimage_toolbox"
+path = "src/lib.rs"
